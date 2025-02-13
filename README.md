@@ -2,7 +2,7 @@ This project collects, processes, and visualizes **oncological gene expression d
 
 ---
 
-## 📌 **Features**
+## **Features**
 - **Scrapes Gene Expression Data** from the Xena Browser.
 - **Stores Data in MiniO Cloud Storage** (Non-Structured Storage).
 - **Processes and Filters** the gene expression dataset for the **cGAS-STING gene pathway**.
